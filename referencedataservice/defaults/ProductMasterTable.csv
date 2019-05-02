@@ -1,0 +1,92 @@
+IDPRODUCTMASTER,ASSETCLASS,BASEPRODUCT,SUBPRODUCT,ECONOMICSSUMMARY
+1,Credit,Index,iTraxx,$tradenotional term transactiontype
+2,InterestRate,IRSwap,Basis,$tradenotional currency term subproduct
+3,InterestRate,IRSwap,FixedFloat,$tradenotional currency term subproduct
+4,ForeignExchange,NDF,,$tradenotional basecurrency/countercurrency terminationdate baseproduct
+5,InterestRate,FRA,,$tradenotional currency maturitydate baseproduct
+6,InterestRate,IRSwap,OIS,$tradenotional currency term subproduct
+7,InterestRate,IRSwap,ZC,$tradenotional currency term subproduct
+8,Credit,Index,CDX,$tradenotional term transactiontype
+11,Credit,SingleName,Corporate,transactiontype
+12,Credit,SingleName,Sovereign,transactiontype
+13,Commodity,Metals,Precious,
+14,Commodity,Metals,NonPrecious,
+15,Commodity,Energy,Oil,
+16,Commodity,Energy,NatGas,
+17,Commodity,Energy,Coal,
+18,Commodity,Energy,Elec,
+19,Commodity,Energy,InterEnergy,
+20,Commodity,Index,,
+21,Commodity,Agricultural,GrainsOilSeeds,
+22,Commodity,Agricultural,Dairy,
+23,Commodity,Agricultural,Livestock,
+24,Commodity,Agricultural,Forestry,
+25,Commodity,Agricultural,Softs,
+26,Commodity,Environmental,Weather,
+27,Commodity,Environmental,Emissions,
+28,Commodity,Freight,,
+29,Commodity,MultiCommodityExotic,,
+30,InterestRate,IRSwap,FixedFixed,subproduct
+31,InterestRate,IRSwap,Inflation,subproduct
+33,InterestRate,CapFloor,,baseproduct
+34,InterestRate,CrossCurrency,Basis,baseproduct subproduct
+35,InterestRate,CrossCurrency,FixedFloat,baseproduct subproduct
+36,InterestRate,CrossCurrency,FixedFixed,baseproduct subproduct
+37,InterestRate,Option,DebtOption,subproduct
+38,InterestRate,Option,Swaption,subproduct
+39,InterestRate,Exotic,,baseproduct
+40,Credit,SingleName,ABS,transactiontype
+41,Credit,SingleName,RecoveryCDS,transactiontype
+42,Credit,SingleName,Loans,transactiontype
+43,Credit,SingleName,Muni,transactiontype
+44,Credit,IndexTranche,CDX,transactiontype
+45,Credit,IndexTranche,LCDX,transactiontype
+46,Credit,IndexTranche,MCDX,transactiontype
+47,Credit,IndexTranche,CDXStructuredTranche,transactiontype
+48,Credit,IndexTranche,iTraxx,transactiontype
+49,Credit,IndexTranche,iTraxxStructuredTranche,transactiontype
+50,Credit,IndexTranche,ABX,transactiontype
+51,Credit,Index,LCDX,transactiontype
+52,Credit,Index,MCDX,transactiontype
+53,Credit,Index,ABX,transactiontype
+54,Credit,Index,CMBX,subproduct
+55,Credit,Index,IOS,subproduct
+56,Credit,Index,MBX,subproduct
+57,Credit,Index,PO,subproduct
+59,Credit,Index,TRX,subproduct
+60,Credit,TotalReturnSwap,,baseproduct
+61,Credit,Swaptions,iTraxx,transactiontype
+62,Credit,Swaptions,Muni,transactiontype
+63,Credit,Swaptions,CDX,transactiontype
+64,Credit,Swaptions,MCDX,transactiontype
+65,Credit,Swaptions,Sovereign,transactiontype
+66,Credit,Swaptions,Corporate,transactiontype
+67,Credit,Exotic,Corporate,transactiontype
+68,Credit,Exotic,StructuredCDS,transactiontype
+69,Credit,Exotic,Other,baseproduct subproduct
+70,ForeignExchange,Spot,,baseproduct
+71,ForeignExchange,NDO,,baseproduct
+72,ForeignExchange,Forward,,baseproduct
+73,ForeignExchange,VanillaOption,,baseproduct
+74,ForeignExchange,SimpleExotic,Barrier,subproduct
+75,ForeignExchange,SimpleExotic,Digital,subproduct
+76,ForeignExchange,ComplexExotic,,baseproduct
+77,Credit,SingleName,,transactiontype
+78,ForeignExchange,Spot,,baseproduct
+79,Equity,Swap,PriceReturnBasicPerformance,
+80,Equity,Swap,ParameterReturnDividend,
+81,Equity,Swap,ParameterReturnVariance,
+82,Equity,Swap,ParameterReturnVolatility,
+83,Equity,PortfolioSwap,PriceReturnBasicPerformance,
+84,Equity,ContractForDifference,PriceReturnBasicPerformance,
+85,Equity,Option,PriceReturnBasicPerformance,
+86,Equity,Option,ParameterReturnDividend,
+87,Equity,Option,ParameterReturnVariance,
+88,Equity,Option,ParameterReturnVolatility,
+89,Equity,Forward,PriceReturnBasicPerformance,
+90,Equity,Other,,
+91,Credit,Index,SP,subproduct
+92,Commodity,MultiCommodityExotic,,
+93,InterestRate,Forward,Debt,
+94,Credit,Index,PrimeX,
+95,Credit,TotalReturnSwapIndex,iBoxx,

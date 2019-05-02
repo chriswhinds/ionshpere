@@ -1,0 +1,348 @@
+[
+    {
+      "id": "hktrader",
+      "name": "Hong Kong Trader",
+      "traderlocation": "HK",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "autrader",
+      "name": "Sidney Trader",
+      "traderlocation": "AU",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "hksales",
+      "name": "Hong Kong Sales",
+      "traderlocation": "HK",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "au_sales",
+      "name": "Sidney Sales",
+      "traderlocation": "AU",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "sg_sales",
+      "name": "Singapore Sales",
+      "traderlocation": "SG",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "sg_trader",
+      "name": "Singapore Trader",
+      "traderlocation": "SG",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ca_sales",
+      "name": "Ontario Salesperson",
+      "traderlocation": "ON",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ca_trader",
+      "name": "Ontario Trader",
+      "traderlocation": "ON",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "mx_sales",
+      "name": "Mexico Salesperson",
+      "traderlocation": "MX",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "mx_trader",
+      "name": "Mexico  Trader",
+      "traderlocation": "MX",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "fr_sales",
+      "name": "Paris Salesperson",
+      "traderlocation": "FR",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "fr_trader",
+      "name": "Paris Trader",
+      "traderlocation": "FR",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ch_sales",
+      "name": "Zurich Salesperson",
+      "traderlocation": "CH",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ch_trader",
+      "name": "Zurich Trader",
+      "traderlocation": "CH",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "jp_sales",
+      "name": "Tokyo Salesperson",
+      "traderlocation": "JP",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "jp_trader",
+      "name": "Tokyo Trader",
+      "traderlocation": "JP",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "uk_sales",
+      "name": "UK Salesperson",
+      "traderlocation": "GB",
+      "functions": [
+        "SALESPERSON",
+        "APPROVER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "uk_trader",
+      "name": "UK Trader",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER",
+        "APPROVER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "aapprover",
+      "name": "Alex Approver",
+      "traderlocation": "US",
+      "functions": [
+        "APPROVER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ttrader",
+      "name": "Terry Trader",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER",
+        "APPROVER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ny_trader",
+      "name": "NY Trader",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "ny_sales",
+      "name": "NY Sales",
+      "traderlocation": "US",
+      "functions": [
+        "SALESPERSON"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "raphael",
+      "name": "Raphael Jocelyn",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "Raphael.Jocelyn@ca-cib.com"
+    },
+    {
+      "id": "jai",
+      "name": "Jai Manglani",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "jai.manglani@ca-cib.com"
+    },
+    {
+      "id": "nicolas",
+      "name": "Nicolas Gonin-Prestataire",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "nicolas.gonin-prestataire@ca-cib.com"
+    },
+    {
+      "id": "laurent",
+      "name": "Laurent Lieber",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "Laurent.LIEBER@ca-cib.com"
+    },
+    {
+      "id": "yann",
+      "name": "Yann Marhic",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "yann.marhic@ca-cib.com"
+    },
+    {
+      "id": "elodie",
+      "name": "Elodie Lenan",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "Elodie.LENAN@ca-cib.com"
+    },
+    {
+      "id": "milena",
+      "name": "Milena Emilova",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "milena.emilova@ca-cib.com"
+    },
+    {
+      "id": "labTrader1",
+      "name": "Lab 49 Trader 1 GB",
+      "traderlocation": "GB",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "labTrader2",
+      "name": "Lab 49 Trader 1 US",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "devtest@droitfintech.com"
+    },
+    {
+      "id": "mangesh",
+      "name": "Mangesh Karandikar",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "mangesh.karandikar@ubs.com"
+    },
+    {
+      "id": "lu",
+      "name": "Lu Fu",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "lu.fu@ubs.com"
+    },
+    {
+      "id": "francesco",
+      "name": "Francesco Chioccola",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "francesco.chioccola@ubs.com"
+    },
+    {
+      "id": "gavin",
+      "name": "Gavin Catterall",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "gavin.catterall@ubs.com"
+    },
+    {
+      "id": "graham",
+      "name": "Graham-XT Orrell",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "graham.orrell@ubs.com"
+    },
+    {
+      "id": "michael",
+      "name": "Michael Buschauer",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "michael.buschauer@ubs.com"
+    },
+    {
+      "id": "mark",
+      "name": "Mark Gent",
+      "traderlocation": "US",
+      "functions": [
+        "TRADER"
+      ],
+      "email": "mark.gent@ubs.com"
+    }
+]
+

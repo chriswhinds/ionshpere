@@ -1,0 +1,307 @@
+IDDEFAULTSCREDITINDEX,INDEXLABEL,SERIES,BASEPRODUCT,SUBPRODUCT,TRANSACTIONTYPE,FAMILY,ONTHERUN
+1,iTraxx Japan,13,Index,iTraxx,iTraxxJapan,,FALSE
+2,iTraxx Japan,14,Index,iTraxx,iTraxxJapan,,FALSE
+3,iTraxx Japan,15,Index,iTraxx,iTraxxJapan,,FALSE
+4,iTraxx Japan,16,Index,iTraxx,iTraxxJapan,,FALSE
+5,iTraxx Japan,17,Index,iTraxx,iTraxxJapan,,FALSE
+6,iTraxx Japan,18,Index,iTraxx,iTraxxJapan,,FALSE
+7,iTraxx Japan,19,Index,iTraxx,iTraxxJapan,,FALSE
+8,iTraxx Japan,20,Index,iTraxx,iTraxxJapan,,FALSE
+9,iTraxx Japan,21,Index,iTraxx,iTraxxJapan,,FALSE
+10,iTraxx Japan,22,Index,iTraxx,iTraxxJapan,,FALSE
+11,iTraxx Japan,23,Index,iTraxx,iTraxxJapan,,FALSE
+12,iTraxx Japan,24,Index,iTraxx,iTraxxJapan,,FALSE
+13,iTraxx Japan,25,Index,iTraxx,iTraxxJapan,,FALSE
+14,iTraxx Japan,26,Index,iTraxx,iTraxxJapan,,FALSE
+295,iTraxx Japan,27,Index,iTraxx,iTraxxJapan,,TRUE
+15,iTraxx Europe,5,Index,iTraxx,iTraxxEurope,,FALSE
+16,iTraxx Europe,6,Index,iTraxx,iTraxxEurope,,FALSE
+17,iTraxx Europe,7,Index,iTraxx,iTraxxEurope,,FALSE
+18,iTraxx Europe,8,Index,iTraxx,iTraxxEurope,,FALSE
+19,iTraxx Europe,9,Index,iTraxx,iTraxxEurope,,FALSE
+20,iTraxx Europe,10,Index,iTraxx,iTraxxEurope,,FALSE
+21,iTraxx Europe,11,Index,iTraxx,iTraxxEurope,,FALSE
+22,iTraxx Europe,12,Index,iTraxx,iTraxxEurope,,FALSE
+23,iTraxx Europe,13,Index,iTraxx,iTraxxEurope,,FALSE
+24,iTraxx Europe,14,Index,iTraxx,iTraxxEurope,,FALSE
+25,iTraxx Europe,15,Index,iTraxx,iTraxxEurope,,FALSE
+26,iTraxx Europe,16,Index,iTraxx,iTraxxEurope,,FALSE
+27,iTraxx Europe,17,Index,iTraxx,iTraxxEurope,,FALSE
+28,iTraxx Europe,18,Index,iTraxx,iTraxxEurope,,FALSE
+29,iTraxx Europe,19,Index,iTraxx,iTraxxEurope,,FALSE
+30,iTraxx Europe,20,Index,iTraxx,iTraxxEurope,,FALSE
+31,iTraxx Europe,21,Index,iTraxx,iTraxxEurope,,FALSE
+32,iTraxx Europe,22,Index,iTraxx,iTraxxEurope,,FALSE
+33,iTraxx Europe,23,Index,iTraxx,iTraxxEurope,,FALSE
+34,iTraxx Europe,24,Index,iTraxx,iTraxxEurope,,FALSE
+35,iTraxx Europe,25,Index,iTraxx,iTraxxEurope,,FALSE
+36,iTraxx Europe,26,Index,iTraxx,iTraxxEurope,,FALSE
+296,iTraxx Europe,27,Index,iTraxx,iTraxxEurope,,TRUE
+37,iTraxx Europe HiVol,5,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+38,iTraxx Europe HiVol,6,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+39,iTraxx Europe HiVol,7,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+40,iTraxx Europe HiVol,8,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+41,iTraxx Europe HiVol,9,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+42,iTraxx Europe HiVol,10,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+43,iTraxx Europe HiVol,11,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+44,iTraxx Europe HiVol,12,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+45,iTraxx Europe HiVol,13,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+46,iTraxx Europe HiVol,14,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+47,iTraxx Europe HiVol,15,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+48,iTraxx Europe HiVol,16,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+49,iTraxx Europe HiVol,17,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+50,iTraxx Europe HiVol,18,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+51,iTraxx Europe HiVol,19,Index,iTraxx,iTraxxEurope,HiVol,FALSE
+52,iTraxx Europe HiVol,20,Index,iTraxx,iTraxxEurope,HiVol,TRUE
+53,iTraxx Europe Crossover,5,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+54,iTraxx Europe Crossover,6,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+55,iTraxx Europe Crossover,7,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+56,iTraxx Europe Crossover,8,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+57,iTraxx Europe Crossover,9,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+58,iTraxx Europe Crossover,10,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+59,iTraxx Europe Crossover,11,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+60,iTraxx Europe Crossover,12,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+61,iTraxx Europe Crossover,13,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+62,iTraxx Europe Crossover,14,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+63,iTraxx Europe Crossover,15,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+64,iTraxx Europe Crossover,16,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+65,iTraxx Europe Crossover,17,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+66,iTraxx Europe Crossover,18,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+67,iTraxx Europe Crossover,19,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+68,iTraxx Europe Crossover,20,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+69,iTraxx Europe Crossover,21,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+70,iTraxx Europe Crossover,22,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+71,iTraxx Europe Crossover,23,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+72,iTraxx Europe Crossover,24,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+73,iTraxx Europe Crossover,25,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+74,iTraxx Europe Crossover,26,Index,iTraxx,iTraxxEurope,Crossover,FALSE
+297,iTraxx Europe Crossover,27,Index,iTraxx,iTraxxEurope,Crossover,TRUE
+75,iTraxx Europe Senior Financials,5,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+76,iTraxx Europe Senior Financials,6,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+77,iTraxx Europe Senior Financials,7,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+78,iTraxx Europe Senior Financials,8,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+79,iTraxx Europe Senior Financials,9,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+80,iTraxx Europe Senior Financials,10,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+81,iTraxx Europe Senior Financials,11,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+82,iTraxx Europe Senior Financials,12,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+83,iTraxx Europe Senior Financials,13,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+84,iTraxx Europe Senior Financials,14,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+85,iTraxx Europe Senior Financials,15,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+86,iTraxx Europe Senior Financials,16,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+87,iTraxx Europe Senior Financials,17,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+88,iTraxx Europe Senior Financials,18,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+89,iTraxx Europe Senior Financials,19,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+90,iTraxx Europe Senior Financials,20,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+91,iTraxx Europe Senior Financials,21,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+92,iTraxx Europe Senior Financials,22,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+93,iTraxx Europe Senior Financials,23,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+94,iTraxx Europe Senior Financials,24,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+95,iTraxx Europe Senior Financials,25,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+96,iTraxx Europe Senior Financials,26,Index,iTraxx,iTraxxEurope,SeniorFinancials,FALSE
+298,iTraxx Europe Senior Financials,27,Index,iTraxx,iTraxxEurope,SeniorFinancials,TRUE
+97,CDX.EM,14,Index,CDX,CDXEM,,FALSE
+98,CDX.EM,15,Index,CDX,CDXEM,,FALSE
+99,CDX.EM,16,Index,CDX,CDXEM,,FALSE
+100,CDX.EM,17,Index,CDX,CDXEM,,FALSE
+101,CDX.EM,18,Index,CDX,CDXEM,,FALSE
+102,CDX.EM,19,Index,CDX,CDXEM,,FALSE
+103,CDX.EM,20,Index,CDX,CDXEM,,FALSE
+104,CDX.EM,21,Index,CDX,CDXEM,,FALSE
+105,CDX.EM,22,Index,CDX,CDXEM,,FALSE
+106,CDX.EM,23,Index,CDX,CDXEM,,FALSE
+107,CDX.EM,24,Index,CDX,CDXEM,,FALSE
+108,CDX.EM,25,Index,CDX,CDXEM,,FALSE
+109,CDX.EM,26,Index,CDX,CDXEM,,FALSE
+299,CDX.EM,27,Index,CDX,CDXEM,,TRUE
+110,CDX.NA.HY,12,Index,CDX,CDXHY,,FALSE
+111,CDX.NA.HY,13,Index,CDX,CDXHY,,FALSE
+112,CDX.NA.HY,14,Index,CDX,CDXHY,,FALSE
+113,CDX.NA.HY,15,Index,CDX,CDXHY,,FALSE
+114,CDX.NA.HY,16,Index,CDX,CDXHY,,FALSE
+115,CDX.NA.HY,17,Index,CDX,CDXHY,,FALSE
+116,CDX.NA.HY,18,Index,CDX,CDXHY,,FALSE
+117,CDX.NA.HY,19,Index,CDX,CDXHY,,FALSE
+118,CDX.NA.HY,20,Index,CDX,CDXHY,,FALSE
+119,CDX.NA.HY,21,Index,CDX,CDXHY,,FALSE
+120,CDX.NA.HY,22,Index,CDX,CDXHY,,FALSE
+121,CDX.NA.HY,23,Index,CDX,CDXHY,,FALSE
+122,CDX.NA.HY,24,Index,CDX,CDXHY,,FALSE
+123,CDX.NA.HY,25,Index,CDX,CDXHY,,FALSE
+124,CDX.NA.HY,26,Index,CDX,CDXHY,,FALSE
+125,CDX.NA.HY,27,Index,CDX,CDXHY,,FALSE
+300,CDX.NA.HY,28,Index,CDX,CDXHY,,TRUE
+126,CDX.NA.IG.HVOL,14,Index,CDX,CDXIG,HiVol,FALSE
+127,CDX.NA.IG.HVOL,15,Index,CDX,CDXIG,HiVol,FALSE
+128,CDX.NA.IG.HVOL,16,Index,CDX,CDXIG,HiVol,FALSE
+129,CDX.NA.IG.HVOL,17,Index,CDX,CDXIG,HiVol,FALSE
+130,CDX.NA.IG.HVOL,18,Index,CDX,CDXIG,HiVol,FALSE
+131,CDX.NA.IG.HVOL,19,Index,CDX,CDXIG,HiVol,FALSE
+132,CDX.NA.IG.HVOL,20,Index,CDX,CDXIG,HiVol,FALSE
+133,CDX.NA.IG.HVOL,21,Index,CDX,CDXIG,HiVol,FALSE
+134,CDX.NA.IG.HVOL,22,Index,CDX,CDXIG,HiVol,FALSE
+135,CDX.NA.IG.HVOL,23,Index,CDX,CDXIG,HiVol,FALSE
+136,CDX.NA.IG.HVOL,24,Index,CDX,CDXIG,HiVol,FALSE
+137,CDX.NA.IG.HVOL,25,Index,CDX,CDXIG,HiVol,FALSE
+138,CDX.NA.IG.HVOL,26,Index,CDX,CDXIG,HiVol,FALSE
+139,CDX.NA.IG.HVOL,27,Index,CDX,CDXIG,HiVol,FALSE
+301,CDX.NA.IG.HVOL,28,Index,CDX,CDXIG,HiVol,TRUE
+140,CDX.NA.IG,9,Index,CDX,CDXIG,,FALSE
+141,CDX.NA.IG,10,Index,CDX,CDXIG,,FALSE
+142,CDX.NA.IG,11,Index,CDX,CDXIG,,FALSE
+143,CDX.NA.IG,12,Index,CDX,CDXIG,,FALSE
+144,CDX.NA.IG,13,Index,CDX,CDXIG,,FALSE
+145,CDX.NA.IG,14,Index,CDX,CDXIG,,FALSE
+146,CDX.NA.IG,15,Index,CDX,CDXIG,,FALSE
+147,CDX.NA.IG,16,Index,CDX,CDXIG,,FALSE
+148,CDX.NA.IG,17,Index,CDX,CDXIG,,FALSE
+149,CDX.NA.IG,18,Index,CDX,CDXIG,,FALSE
+150,CDX.NA.IG,19,Index,CDX,CDXIG,,FALSE
+151,CDX.NA.IG,20,Index,CDX,CDXIG,,FALSE
+152,CDX.NA.IG,21,Index,CDX,CDXIG,,FALSE
+153,CDX.NA.IG,22,Index,CDX,CDXIG,,FALSE
+154,CDX.NA.IG,23,Index,CDX,CDXIG,,FALSE
+155,CDX.NA.IG,24,Index,CDX,CDXIG,,FALSE
+156,CDX.NA.IG,25,Index,CDX,CDXIG,,FALSE
+157,CDX.NA.IG,26,Index,CDX,CDXIG,,FALSE
+158,CDX.NA.IG,27,Index,CDX,CDXIG,,FALSE
+302,CDX.NA.IG,28,Index,CDX,CDXIG,,TRUE
+159,iTraxx Asia ex-Japan,11,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+160,iTraxx Asia ex-Japan,12,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+161,iTraxx Asia ex-Japan,13,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+162,iTraxx Asia ex-Japan,14,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+163,iTraxx Asia ex-Japan,15,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+164,iTraxx Asia ex-Japan,16,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+165,iTraxx Asia ex-Japan,17,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+166,iTraxx Asia ex-Japan,18,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+167,iTraxx Asia ex-Japan,19,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+168,iTraxx Asia ex-Japan,20,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+169,iTraxx Asia ex-Japan,21,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+170,iTraxx Asia ex-Japan,22,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+171,iTraxx Asia ex-Japan,23,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+172,iTraxx Asia ex-Japan,24,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+173,iTraxx Asia ex-Japan,25,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+174,iTraxx Asia ex-Japan,26,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+303,iTraxx Asia ex-Japan,27,Index,iTraxx,iTraxxAsiaExJapan,IG,TRUE
+175,iTraxx Australia,11,Index,iTraxx,iTraxxAustralia,,FALSE
+176,iTraxx Australia,12,Index,iTraxx,iTraxxAustralia,,FALSE
+177,iTraxx Australia,13,Index,iTraxx,iTraxxAustralia,,FALSE
+178,iTraxx Australia,14,Index,iTraxx,iTraxxAustralia,,FALSE
+179,iTraxx Australia,15,Index,iTraxx,iTraxxAustralia,,FALSE
+180,iTraxx Australia,16,Index,iTraxx,iTraxxAustralia,,FALSE
+181,iTraxx Australia,17,Index,iTraxx,iTraxxAustralia,,FALSE
+182,iTraxx Australia,18,Index,iTraxx,iTraxxAustralia,,FALSE
+183,iTraxx Australia,19,Index,iTraxx,iTraxxAustralia,,FALSE
+184,iTraxx Australia,20,Index,iTraxx,iTraxxAustralia,,FALSE
+185,iTraxx Australia,21,Index,iTraxx,iTraxxAustralia,,FALSE
+186,iTraxx Australia,22,Index,iTraxx,iTraxxAustralia,,FALSE
+187,iTraxx Australia,23,Index,iTraxx,iTraxxAustralia,,FALSE
+188,iTraxx Australia,24,Index,iTraxx,iTraxxAustralia,,FALSE
+189,iTraxx Australia,25,Index,iTraxx,iTraxxAustralia,,FALSE
+190,iTraxx Australia,26,Index,iTraxx,iTraxxAustralia,,FALSE
+304,iTraxx Australia,27,Index,iTraxx,iTraxxAustralia,,TRUE
+191,iTraxx CEEMEA,18,Index,iTraxx,iTraxxCEEMEA,,FALSE
+192,iTraxx CEEMEA,19,Index,iTraxx,iTraxxCEEMEA,,FALSE
+193,iTraxx CEEMEA,20,Index,iTraxx,iTraxxCEEMEA,,FALSE
+194,iTraxx CEEMEA,21,Index,iTraxx,iTraxxCEEMEA,,FALSE
+195,iTraxx CEEMEA,22,Index,iTraxx,iTraxxCEEMEA,,FALSE
+196,iTraxx CEEMEA,23,Index,iTraxx,iTraxxCEEMEA,,FALSE
+197,iTraxx CEEMEA,24,Index,iTraxx,iTraxxCEEMEA,,TRUE
+198,iTraxx Europe Sub Financials,1,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+199,iTraxx Europe Sub Financials,2,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+200,iTraxx Europe Sub Financials,2,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+201,iTraxx Europe Sub Financials,3,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+202,iTraxx Europe Sub Financials,4,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+203,iTraxx Europe Sub Financials,5,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+204,iTraxx Europe Sub Financials,6,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+205,iTraxx Europe Sub Financials,7,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+206,iTraxx Europe Sub Financials,8,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+207,iTraxx Europe Sub Financials,9,Index,iTraxx,iTraxxEurope,SubFinancials,,FALSE
+208,iTraxx Europe Sub Financials,10,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+209,iTraxx Europe Sub Financials,11,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+210,iTraxx Europe Sub Financials,12,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+211,iTraxx Europe Sub Financials,13,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+212,iTraxx Europe Sub Financials,14,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+213,iTraxx Europe Sub Financials,15,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+214,iTraxx Europe Sub Financials,16,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+215,iTraxx Europe Sub Financials,17,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+216,iTraxx Europe Sub Financials,18,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+217,iTraxx Europe Sub Financials,19,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+218,iTraxx Europe Sub Financials,20,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+219,iTraxx Europe Sub Financials,21,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+220,iTraxx Europe Sub Financials,22,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+221,iTraxx Europe Sub Financials,23,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+222,iTraxx Europe Sub Financials,24,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+223,iTraxx Europe Sub Financials,25,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+224,iTraxx Europe Sub Financials,26,Index,iTraxx,iTraxxEurope,SubFinancials,FALSE
+305,iTraxx Europe Sub Financials,27,Index,iTraxx,iTraxxEurope,SubFinancials,TRUE
+225,iTraxx LevX Senior,4,Index,iTraxx,iTraxxLevXSenior,,FALSE
+226,iTraxx LevX Senior,5,Index,iTraxx,iTraxxLevXSenior,,FALSE
+227,iTraxx LevX Senior,6,Index,iTraxx,iTraxxLevXSenior,,FALSE
+228,iTraxx SovX AsiaPacific,4,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+229,iTraxx SovX AsiaPacific,5,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+230,iTraxx SovX AsiaPacific,6,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+231,iTraxx SovX AsiaPacific,7,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+232,iTraxx SovX AsiaPacific,8,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+233,iTraxx SovX AsiaPacific,9,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+234,iTraxx SovX AsiaPacific,10,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+235,iTraxx SovX AsiaPacific,11,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+236,iTraxx SovX AsiaPacific,12,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+237,iTraxx SovX AsiaPacific,13,Index,iTraxx,iTraxxSovXAsiaPacific,,FALSE
+238,iTraxx SovX AsiaPacific,14,Index,iTraxx,iTraxxSovXAsiaPacific,,TRUE
+239,iTraxx SovX CEEMEA,1,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+240,iTraxx SovX CEEMEA,2,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+241,iTraxx SovX CEEMEA,3,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+242,iTraxx SovX CEEMEA,4,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+243,iTraxx SovX CEEMEA,5,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+244,iTraxx SovX CEEMEA,6,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+245,iTraxx SovX CEEMEA,7,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+246,iTraxx SovX CEEMEA,8,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+247,iTraxx SovX CEEMEA,9,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+248,iTraxx SovX CEEMEA,10,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+249,iTraxx SovX CEEMEA,11,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+250,iTraxx SovX CEEMEA,12,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+251,iTraxx SovX CEEMEA,13,Index,iTraxx,iTraxxSovXCEEMEA,,FALSE
+252,iTraxx SovX CEEMEA,14,Index,iTraxx,iTraxxSovXCEEMEA,,TRUE
+253,iTraxx SovX Western Europe,1,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+254,iTraxx SovX Western Europe,2,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+255,iTraxx SovX Western Europe,3,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+256,iTraxx SovX Western Europe,4,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+257,iTraxx SovX Western Europe,5,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+258,iTraxx SovX Western Europe,6,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+259,iTraxx SovX Western Europe,7,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+260,iTraxx SovX Western Europe,8,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+261,iTraxx SovX Western Europe,9,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+262,iTraxx SovX Western Europe,10,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+263,iTraxx SovX Western Europe,11,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+264,iTraxx SovX Western Europe,12,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+265,iTraxx SovX Western Europe,13,Index,iTraxx,iTraxxSovXWesternEurope,,FALSE
+266,iTraxx SovX Western Europe,14,Index,iTraxx,iTraxxSovXWesternEurope,,TRUE
+267,iTraxx Asia ex-Japan IG,12,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+268,iTraxx Asia ex-Japan IG,13,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+269,iTraxx Asia ex-Japan IG,14,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+270,iTraxx Asia ex-Japan IG,15,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+271,iTraxx Asia ex-Japan IG,16,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+272,iTraxx Asia ex-Japan IG,17,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+273,iTraxx Asia ex-Japan IG,18,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+274,iTraxx Asia ex-Japan IG,19,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+275,iTraxx Asia ex-Japan IG,20,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+276,iTraxx Asia ex-Japan IG,21,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+277,iTraxx Asia ex-Japan IG,22,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+278,iTraxx Asia ex-Japan IG,23,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+279,iTraxx Asia ex-Japan IG,24,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+280,iTraxx Asia ex-Japan IG,25,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+281,iTraxx Asia ex-Japan IG,26,Index,iTraxx,iTraxxAsiaExJapan,IG,FALSE
+306,iTraxx Asia ex-Japan IG,27,Index,iTraxx,iTraxxAsiaExJapan,IG,TRUE
+282,iTraxx Asia ex-Japan HY,11,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+283,iTraxx Asia ex-Japan HY,12,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+284,iTraxx Asia ex-Japan HY,13,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+285,iTraxx Asia ex-Japan HY,14,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+286,iTraxx Asia ex-Japan HY,15,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+287,iTraxx Asia ex-Japan HY,16,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+288,iTraxx Asia ex-Japan HY,17,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+289,iTraxx Asia ex-Japan HY,18,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+290,iTraxx Asia ex-Japan HY,19,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+291,iTraxx Asia ex-Japan HY,20,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+292,iTraxx Asia ex-Japan HY,21,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+293,iTraxx Asia ex-Japan HY,22,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE
+294,iTraxx Asia ex-Japan HY,23,Index,iTraxx,iTraxxAsiaExJapan,HY,FALSE

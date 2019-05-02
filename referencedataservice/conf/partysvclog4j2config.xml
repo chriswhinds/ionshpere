@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug">
+    <Appenders>
+        <Console name="CONSOLE" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p [%t] %c{1}:%L - %m%n"/>
+        </Console>
+        <File name="SERVICELOGLOG" fileName="../logs/partysvc-service.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p [%t] %c{1}:%L - %m%n"/>
+        </File>
+        <Async name="ASYNC">
+            <AppenderRef ref="SERVICELOGLOG"/>
+            <AppenderRef ref="CONSOLE"/>
+        </Async>
+    </Appenders>
+    <Loggers>
+        <Logger name="org.apache.log4j.xml" level="all"/>
+        <Root level="debug">
+            <AppenderRef ref="ASYNC"/>
+        </Root>
+    </Loggers>
+</Configuration>
+
+
+

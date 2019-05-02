@@ -1,0 +1,60 @@
+---
+ serviceName : Reference data Service Configuration
+ version : 1.0
+
+ #Service Party Cache and events locations
+ # Can be sourced from the local file system or a MongoDB instance
+ partyServiceHostname: 127.0.0.1
+ partyServicePort: 8053
+ serviceSourceMode: MongoDb   # FileSystem or MongoDb
+ mongoDBHostName: 192.168.2.20 #  AWS db.droit.local or local office 192.168.2.20
+ mongoDBPort: 27017
+ mongoDBDatabaseName: jis     #  rds or local .20 jis
+ mongoDBCollectionName: parties  #  parties ( rds or local jis )
+ partyCacheLocation: /partyCache
+ partyEventsLocation: /partyEvents
+ partyStartUpLocation: /partyStartup
+ maxPartiesReturnedOnSearch: 100
+ partyQueryResultHeaders: accountID,accountName,accountDomicileCountryCode,branch,legalEntityID
+
+
+ #Static Data Reference Data Service
+ staticDataServicehostname: 127.0.0.1
+ staticDataServicePort: 8054
+ #Participant json location
+ participantLocation: /participants/participants.json
+ participantResultHeaders: id,name,traderlocation,functions
+ #FX Rates file location
+ fxratesLocation: /fxrates/fxRates.json
+ #User Credentials
+ userCredentialsLocation: /users/userCredentials.json
+
+
+ #Audit Reference Data Servicelocation
+ #Audit Sevices Bindings
+ auditServiceHostname: 127.0.0.1
+ auditServicePort: 8052
+ auditStoreLocation: /auditstore
+ auditStoreAutoCreateOnStartup: false
+
+
+ #Defaulting Reference Data Service
+ #Audit Sevices Bindings
+ defaultingServicehostname: 127.0.0.1
+ defaultingServicePort: 8055
+ defaultRequestAttributeReslover: com.droitfintech.defaultingservice.WebToolTradeRequestAttributeResolver
+ defaultRequestDictionary: /defaults/ui_request_dictionary_ver_1_1.json
+ adeptAPIServiceHostname: 192.168.2.20
+ adeptAPIServicePort: 8989
+ adeptGetModulesAPI: /api
+ adeptGetDictionaryAPI: /api/dictionary
+
+
+
+
+
+
+
+
+
+...

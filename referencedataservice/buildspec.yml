@@ -1,0 +1,28 @@
+version: 0.1
+
+#environment_variables:
+#  plaintext:
+#    key: "value"
+#    key: "value"
+
+phases:
+#  install:
+#    commands:
+#      - command
+#      - command
+#  pre_build:
+#    commands:
+#      - command
+#      - command
+  build:
+    commands:
+      - mvn -U clean install -DskipTests
+  post_build:
+    commands:
+      - build/assemble-distribution.sh
+
+artifacts:
+  files:
+    - target/referencedataservice-distribution.tar.gz
+  discard-paths: yes
+#  base-directory: location

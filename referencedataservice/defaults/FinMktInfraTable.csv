@@ -1,0 +1,62 @@
+IDFINMKTINFRA,FINMKTINFRATYPE,SHORTNAME,LONGNAME,COUNTRY,REGION
+1,CCP,CME_US,CME Group,US,NA
+2,CCP,LCH_CLEARNET_LTD,LCH Clearnet Limited,GB,EU
+3,CCP,CME_EU,CME Clearing Europe Limited,GB,EU
+4,CCP,Eurex,Eurex Clearing AG,DE,EU
+5,CCP,KDPW,KDPW_CCP SA,PL,EU
+6,CCP,NASDAQ_OMX,NASDAQ OMX Group,SE,EU
+7,CCP,JSCC,Japan Securities Clearing Corporation,JP,APAC
+8,CCP,SGX,Singapore Exchange Limited,SG,APAC
+9,CCP,ICE_CLEAR_US,ICE Clear Credit LLC,US,NA
+10,CCP,ICE_CLEAR_EU,ICE Clear Europe Limited,GB,EU
+11,CCP,LCH_CLEARNET_SA,LCH Clearnet SA,FR,EU
+13,CCP,LCH_CLEARNET_LLC,LCH Clearnet LLC,US,NA
+14,CCP,ASX,Australian Securities Exchange,AU,APAC
+15,SEF,BGC,"BGC Derivatives Markets, L.P.",US,NA
+16,SEF,BSEF,Bloomberg SEF LLC,US,NA
+17,SEF,DW,DW SEF LLC,US,NA
+18,SEF,GFI,GFI Swaps Exchange LLC,US,NA
+19,SEF,ICAP,ICAP SEF (US) LLC,US,NA
+20,SEF,ICE,"ICE Swap Trade, LLC",US,NA
+21,SEF,INFX,"INFX SEF, Inc.",US,NA
+22,SEF,Javelin,Bats Hotspot SEF LLC,US,NA
+23,SEF,MarketAxess,MarketAxess SEF Corporation,US,NA
+24,SEF,SwapEx,SwapEx LLC,US,NA
+26,SEF,tpSEF,tpSEF Inc,US,NA
+27,SEF,TR,Thomson Reuters (SEF) LLC,US,NA
+28,SEF,TW,TW SEF LLC,US,NA
+29,SEF,Tradition,"Tradition SEF, Inc.",US,NA
+31,SEF,TrueEX,trueEX LLC,US,NA
+33,SEF,CME,Chicago Mercantile Exchange Inc.,US,NA
+35,Regulator,CFTC,Commodity Futures Trading Commission,US,NA
+36,Regulator,JFSA,Japan Financial Services Agency,JP,APAC
+39,CCP,MOEX,Moscow Exchange,RU,EU
+40,CCP,HKEX,OTC Clearing Hong Kong Limited,HK,APAC
+41,SDR,DDR,DTCC Data Repository (US) LLC,US,NA
+42,SDR,CME_SDR,Chicago Mercantile Exchange,US,NA
+43,SDR,ICE_Trade_Vault,ICE Trade Vault,US,NA
+44,SDR,BSDR,BSDR LLC,US,NA
+45,SDR,DDRJ,DTCC Data Repository (Japan) LLC,JP,APAC
+46,SDR,DDRL,DTCC Derivatives Repository Ltd.,UK,EU
+47,SDR,KDPW_SDR,Krajowy Depozyt PapierÌ_w Wartosciowych S.A.,PL,EU
+48,SDR,Regis,Regis-TR S.A.,LU,EU
+49,SDR,UnaVista,UnaVista Ltd.,UK,EU
+50,SDR,CME_TR,CME Trade Repository Ltd.,UK,EU
+51,SDR,ICE_TVEL,ICE Trade Vault Europe Ltd.,UK,EU
+52,Regulator,ESMA,European Securities and Markets Authority,FR,EU
+54,Regulator,FSFM,Federal Financial Markets Service,RU,EU
+55,Regulator,MAS,Monetary Authority of Singapore,SG,APAC
+56,Regulator,OSC,Ontario Securities Commission,CA,NA
+500,SEF,LatAm,"LatAm SEF, LLC",US,NA
+600,SEF,IGDL,ICAP Global Derivatives Limited,US,NA
+700,CCP,KRX,Korea Exchange,KR,APAC
+701,Regulator,KFSC,Korea Financial Services Commission,KR,APAC
+702,SEF,BETP,Bloomberg Tradebook Japan LTD,JP,APAC
+703,SEF,TREU,Tradeweb Europe Limited,GB,EU
+900,Regulator,MSC,Manitoba Securities Commission,CA,NA
+901,Regulator,AMF,AutoritÌ© des marchÌ©s financiers,CA,NA
+1000,SEF,360T,360 Trading Networks Inc.,US,NA
+1001,Regulator,CNBV,ComisiÌ_n Nacional Bancaria y de Valores,MX,NA
+1002,Regulator,ASIC,Australian Securities and Investments Commission,AU,APAC
+1003,CCP,ASIGNA,"Asigna, CompensaciÌ_n y LiquidaciÌ_n",MX,NA
+1100,Regulator,SFC,Securities and Futures Commission,HK,APAC
